@@ -74,20 +74,6 @@ Implements:
 
 ---
 
-## 🧰 Example Outputs
-
-| Transformation | Result |
-|----------------|--------|
-| Negative Image | ![Negative](assets/negative.png) |
-| Power Law Effect | ![Power Law](assets/power.png) |
-| Histogram Equalization | ![Histogram](assets/histogram.png) |
-| Fourier LPF | ![LPF](assets/lpf.png) |
-| Fourier HPF | ![HPF](assets/hpf.png) |
-
-*(Add example images under `assets/` folder for better visualization.)*
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository:
